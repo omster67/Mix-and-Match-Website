@@ -1,0 +1,57 @@
+.unica-one-regular {
+    font-family: "Unica One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+  
+
+body{
+    background-image: url("future.avif");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+
+
+
+
+ul{
+    background-color:black;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+ul li a{
+   display: block;
+   color: rgb(224, 25, 243);
+   margin: 0px;
+   padding: 10px;
+   text-decoration: none;
+}
+
+#sharks{
+    color: blueviolet;
+    font-family: "Unica One";
+}
+
+
+div{
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+#text{
+   display: inline-block;
+   width: 10px;
+   height: 10px;
+}
+
+#sharks{
+   display: inline-block;
+   width: 10px;
+   height: 10px;
+}
+
+
