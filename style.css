@@ -7,51 +7,31 @@
   
 
 body{
-    background-image: url("future.avif");
-    background-repeat: no-repeat;
-    background-size: 1000px;
+    background-image: url("technology-futuristic-digital-city-powerpoint-background_841ca7cb07__960_540.avif");
+    background-size: 100%;
 }
 
-
-
-
-ul{
-    background-color:black;
-    margin: 0px;
-    padding: 0px;
-    list-style-type: none;
-}
-
-ul li a{
-   display: block;
-   color: rgb(224, 25, 243);
-   margin: 0px;
-   padding: 10px;
-   text-decoration: none;
-}
-
-#sharks{
-    color: blueviolet;
+h1{
     font-family: "Unica One";
-}
-
-
-div{
-    margin: 30px;
-    padding: 20px;
+    color: #008080;
     text-align: center;
 }
 
-#text{
-   display: inline-block;
-   width: 10px;
-   height: 10px;
+div{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
 }
 
-#sharks{
-   display: inline-block;
-   width: 10px;
-   height: 10px;
+img{
+    height: 400px;
+    width: 300px;
 }
 
-
+p{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    color: #008080;
+    font-family: "Unica One";
+}
